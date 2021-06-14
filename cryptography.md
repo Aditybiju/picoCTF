@@ -1,8 +1,9 @@
-# **PicoCTF**
+# picoCTF
 
 ## **(Cryptography)**
 
 **CHALLENGE NAME: Mod 26**
+--------------------------
 
 **DESCRIPTION:**
 
@@ -17,6 +18,7 @@ echo &#39;cvpbPGS{arkg\_gvzr\_V\&#39;yy\_gel\_2\_ebhaqf\_bs\_ebg13\_jdJBFOXJ}&#3
 **FLAG:** picoCTF{next\_time\_I&#39;ll\_try\_2\_rounds\_of\_rot13\_wqWOSBKW}
 
 **CHALLENGE NAME: The Numbers**
+--------------------------------
 
 **DESCRIPTION:**
 
@@ -28,7 +30,10 @@ We can easily understand that it is a1z26 cipher.So used a decoder and got the f
 
 **FLAG:** PICOCTF{THENUMBERSMASON}
 
+
+
 **CHALLENGE NAME: Easy1**
+-------------------------
 
 **DESCRIPTION:**
 
@@ -41,6 +46,7 @@ Use the table to decrypt the flag by using key(row) to intersect the correspondi
 **FLAG:** picoCTF{CRYPTOISFUN}
 
 **CHALLENGE NAME: 13**
+----------------------
 
 **DESCRIPTION:**
 
