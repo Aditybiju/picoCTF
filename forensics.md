@@ -3,6 +3,7 @@
 ## **(Forensics)**
 
 **CHALLENGE NAME: information**
+--------------------------------
 
 **DESCRIPTION:**
 
@@ -15,6 +16,7 @@ They have provided a hint to look at the details of the file.The metadata provid
 **FLAG:** picoCTF{the\_m3tadata\_1s\_modified}
 
 **CHALLENGE NAME: Matryoshka doll**
+--------------------------------
 
 **DESCRIPTION:**
 
@@ -27,6 +29,7 @@ In the hints they have mentioned about hiding files inside file.So i tried unzip
 **FLAG:** picoCTF{the\_m3tadata\_1s\_modified}
 
 **CHALLENGE NAME: MacroHard WeakEdge**
+--------------------------------
 
 **DESCRIPTION:**
 
