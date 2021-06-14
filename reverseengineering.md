@@ -2,7 +2,8 @@
 
 ## **(Reverse Engineering)**
 
-**CHALLENGE NAME:**** Transformation**
+**CHALLENGE NAME:Transformation**
+--------------------------------------
 
 **DESCRIPTION:**
 
@@ -14,7 +15,8 @@ After opening the file we find a text &quot;灩捯䍔䙻ㄶ形楴獟楮獴㌴摟
 
 **FLAG:** picoCTF{16\_bits\_inst34d\_of\_8\_75d4898b}
 
-**CHALLENGE NAME:**** vault-door-training**
+**CHALLENGE NAME:vault-door-training**
+-------------------------------------------
 
 **DESCRIPTION:**
 
@@ -26,7 +28,8 @@ So after opening the java file we can see a part at the end wherein the password
 
 **FLAG:** picoCTF{w4rm1ng\_Up\_w1tH\_jAv4\_be8d9806f18}
 
-**CHALLENGE NAME:**** vault-door-1**
+**CHALLENGE NAME:vault-door-1**
+-------------------------------------
 
 **DESCRIPTION:**
 
